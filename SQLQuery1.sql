@@ -1,0 +1,1 @@
+﻿INSERT INTO Cars_details_tbl(Car_image, Car_name, Car_rental_price, Car_seats, Car_type, Car_fuel_type, Car_average) VALUES('/img/car-2.png', 'Mercedes-Benz Hatchback', '4000', '4', 'Manual', 'Petrol', '25');
